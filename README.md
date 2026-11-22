@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<img src="koi/koi.gif" width="128" alt="My koi" />
