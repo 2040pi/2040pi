@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building a chess engine in python
 - 🌱 I’m currently learning how to use git from the command line.
 
+<img src="koi/koi.gif" width="200%" alt="My koi" />
   <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,4 +20,4 @@ Here are some ideas to get you started:
   -->
 
 
-<img src="koi/koi.gif" width="200%" alt="My koi" />
+
